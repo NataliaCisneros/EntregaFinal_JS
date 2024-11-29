@@ -3,6 +3,7 @@ const contenedorArticulos = document.getElementById("Tienda");
 try {
     let carrito = JSON.parse(localStorage.getItem("carrito")) || [];
 
+    //El fetch nada más funcionará de manera local y no en github pages
     fetch("../data/articulos.JSON")
     .then(response => response.json())
     .then(data => {
