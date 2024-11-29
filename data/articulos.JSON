@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1, 
+        "nombre": "BERMUDA", 
+        "precio": 25000,
+        "imagen": "../imagenes/bermuda.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 2, 
+        "nombre": "PANTALON", 
+        "precio": 70000,
+        "imagen": "../imagenes/pantalon.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 3, 
+        "nombre": "REMERA", 
+        "precio": 20000,
+        "imagen": "../imagenes/remera.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 4, 
+        "nombre": "CAMPERA", 
+        "precio": 80000,
+        "imagen": "../imagenes/campera.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 5, 
+        "nombre": "CHALECO", 
+        "precio": 45000,
+        "imagen": "../imagenes/chaleco.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 6, 
+        "nombre": "GORRA", 
+        "precio": 15000,
+        "imagen": "../imagenes/gorra.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 7, 
+        "nombre": "CINTO", 
+        "precio": 20000,
+        "imagen": "../imagenes/cinto.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 8, 
+        "nombre": "BOLSO", 
+        "precio": 50000,
+        "imagen": "../imagenes/bolso.jpg",
+        "cantidad": 1
+    }
+]

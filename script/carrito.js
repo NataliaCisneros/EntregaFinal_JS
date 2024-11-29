@@ -66,9 +66,7 @@ carritoResultado.forEach((el, index)=>{
     contenedorCarrito.appendChild(articulo);
 })
 
-
 const botonBorrar = document.getElementById("borrarCarrito");
-botonBorrar.className = "botonBorrar"
 
 botonBorrar.addEventListener("click", () => {
     carritoResultado.length = 0;
@@ -80,7 +78,6 @@ botonBorrar.addEventListener("click", () => {
     const contenedorTotal = document.getElementById("Total");
     contenedorTotal.textContent = "TOTAL: $0";
 });
-
 
 function calcularTotal() {
     const contenedorTotal = document.getElementById("Total");
